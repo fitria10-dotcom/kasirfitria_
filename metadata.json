@@ -1,0 +1,8 @@
+{
+  "name": "Fitria Kasir POS - Sistem Kasir Modern",
+  "description": "Aplikasi kasir (POS) modern dengan foto produk kustom, upload gambar, manajemen kasir, cetak struk, dan laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
